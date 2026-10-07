@@ -9,3 +9,6 @@
 
 ## 補集合
 
+
+## 参考
+- https://en.wikipedia.org/wiki/Fuzzy_set_operations
